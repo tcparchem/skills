@@ -42,7 +42,7 @@ When the concept is implemented in code, teach the contract before the syntax. I
 
 ## Required HTML structure
 
-Save the page outside the repository, preferably at `/tmp/YYYY-MM-DD-teach-<slug>.html`, using the current date in `YYYY-MM-DD` format. Return the exact absolute path as a clickable local-file link.
+Save the page in the current working directory at `./YYYY-MM-DD-teach-<slug>.html`, using the current date in `YYYY-MM-DD` format. Return the exact absolute path as a clickable local-file link.
 
 Include these top-level sections in this order, with a visible table of contents linking to each one:
 
