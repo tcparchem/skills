@@ -15,7 +15,7 @@ The `teach` skill is designed for concept lessons rather than code-diff explanat
 Clone this repository, then copy the skill into your Codex skills directory:
 
 ```sh
-git clone https://github.com/<your-github-user>/skills.git
+git clone https://github.com/tcparchem/skills.git
 mkdir -p ~/.codex/skills
 cp -R skills/teach ~/.codex/skills/teach
 ```
